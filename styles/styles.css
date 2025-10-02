@@ -1,0 +1,12 @@
+.container{
+
+    width: 1440px;
+    height: 900px;
+    align-items: center;
+    display: flex;
+    justify-content: center;    
+}
+
+.content-left{
+
+}
